@@ -120,7 +120,7 @@ Only scan targets you have **explicit permission** to test. ShadowScan is built 
 
 ## 👩‍💻 Built By
 
-**Shrutha Keerthana** — BTech CSE @ VNR VJIET  
+**Shrutha Keerthana** — BTech CSE-CyS @ VNR VJIET  
 Cybersecurity enthusiast building tools that make security accessible.
 
 ---
